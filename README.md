@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajat Sharma</h1>
-                  Lead Automation Expert( Lead SDET)
+<h1 align="center"> <B>Lead Automation Expert( Lead SDET)</B>  </h1>
 <h3 align="center">A passionate Software Engineer having 10 years+ of IT experience in Software Testing with extensive in performing QA Automation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmarajat86&label=Profile%20views&color=0e75b6&style=flat" alt="sharmarajat86" /> </p>
